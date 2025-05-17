@@ -1,3 +1,3 @@
 # GitHub
-"# Mi proyecto"
+## Mi proyecto"
 Pre-Bootcamp Data Science 
